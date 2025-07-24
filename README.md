@@ -167,7 +167,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats-j1gk.vercel.app/api?username=jeremyb257&theme=dark&show_icons=true&include_all_commits=false" />
+  <img  align="center"  src="https://github-readme-stats-j1gk.vercel.app/api?username=jeremyb257&theme=dark&show_icons=true&include_all_commits=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremyb257&theme=dark&hide_border=false" /> 
 </td>
