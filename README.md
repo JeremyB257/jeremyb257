@@ -169,7 +169,7 @@
   
   <img  align="center"  src="https://github-readme-stats-j1gk.vercel.app/api?username=jeremyb257&theme=dark&show_icons=true&include_all_commits=true" />
   <br></br>
-  <img src="https://streak-stats.demolab.com?user=jeremyb257&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=jeremyb257&theme=dark&hide_border=false" alt="GitHub Streak" />
 </td>
 
 <td width="50%" align="center">
