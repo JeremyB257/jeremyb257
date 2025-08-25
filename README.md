@@ -174,7 +174,7 @@
 
 <td width="50%" align="center">
  
-  <img  align="center"  src="https://github-readme-stats-j1gk.vercel.app/api/top-langs/?username=jeremyb257&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&include_all_commits=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyb257&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8&include_all_commits=true" />
  
   </td>
 </tr>
@@ -189,10 +189,10 @@
 
 <br>
 
-#### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
+#### <p align="center"><b>Thank you for taking the time to read my profile </b></p>
 
 
 -----
 
 
-Last Edited on: 01/02/2025
+Last Edited on: 25/08/2025
